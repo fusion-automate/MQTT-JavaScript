@@ -1,0 +1,2 @@
+# Overview:
+The project aims to develop a real-time data visualization system using MQTT (Message Queuing Telemetry Transport) protocol for data communication and WebSocket for real-time data streaming to web browsers. MQTT is a lightweight messaging protocol ideal for IoT (Internet of Things) applications, while WebSocket enables full-duplex communication between clients and servers, making it suitable for real-time data streaming in web applications.
